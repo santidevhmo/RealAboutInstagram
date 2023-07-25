@@ -1,7 +1,7 @@
 
 # Realistic Instagram's About Page
 
-A replica of Instagram's About page showcasing their current harmful strategies used on the platform and the negative impacts of social media.
+<img width="660" alt="aboutInstagramPage" src="https://github.com/santidevhmo/RealAboutInstagram/assets/49324282/337cb45e-e544-404a-ba8a-6cc0ff7ed592">
 
 ## Made with:
 
