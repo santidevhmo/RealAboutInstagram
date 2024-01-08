@@ -3,7 +3,7 @@
 
 <img width="660" alt="aboutInstagramPage" src="https://github.com/santidevhmo/RealAboutInstagram/assets/49324282/337cb45e-e544-404a-ba8a-6cc0ff7ed592">
 
-# HackerNew's Article
+# Hacker News Article
 
 https://news.ycombinator.com/item?id=36866629
 
